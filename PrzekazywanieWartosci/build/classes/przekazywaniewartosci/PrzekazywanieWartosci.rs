@@ -1,0 +1,3 @@
+przekazywaniewartosci.PrzekazywanieWartosci
+przekazywaniewartosci.Foo
+przekazywaniewartosci.Test
